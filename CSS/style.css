@@ -30,4 +30,18 @@ body {
 }
 
 
-/*  */
+/* Top players */
+
+hr {
+  border-top: 3px solid lightgray;
+  margin: 20px 0;
+}
+
+/* Blogs */
+.card {
+  border: none;
+}
+
+.purple-color {
+  color: #562EFF;
+}
